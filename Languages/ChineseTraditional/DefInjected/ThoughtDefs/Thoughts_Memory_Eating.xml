@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<VFEFactory_AteProcessedMince.label>吃了生肉糜</VFEFactory_AteProcessedMince.label>
+<VFEFactory_AteProcessedMince.description>我吃了生的加工肉製品。又冷又黏，令人極度不適。</VFEFactory_AteProcessedMince.description>
+
+<VFEFactory_AteProcessedMinceIngredient.label>吃了熟肉糜</VFEFactory_AteProcessedMinceIngredient.label>
+<VFEFactory_AteProcessedMinceIngredient.description>我吃了煮熟的加工肉製品。雖然能吃，但味道還有很大改進空間。</VFEFactory_AteProcessedMinceIngredient.description>
+</LanguageData>

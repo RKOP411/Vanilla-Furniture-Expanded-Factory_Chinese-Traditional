@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<VFE_BasicFactories.label>基礎工廠</VFE_BasicFactories.label>
+<VFE_BasicFactories.description>建造基礎工廠、附帶分流器、合流器、過濾器與地下傳送帶的傳送系統，以及工廠漏斗，以自動化殖民地中的特定任務。</VFE_BasicFactories.description>
+
+<VFE_ComplexFactories.label>複雜工廠</VFE_ComplexFactories.label>
+<VFE_ComplexFactories.description>建造複雜的特定工廠，能夠製造零部件、生產塑鋼合金等等。</VFE_ComplexFactories.description>
+</LanguageData> 

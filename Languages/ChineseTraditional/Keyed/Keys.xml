@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<VFEFactory_FactoryNotWorking>此工廠目前無法運作。</VFEFactory_FactoryNotWorking>
+	<VFEFactory_Overclock>超頻：{0}</VFEFactory_Overclock>
+	<VFEFactory_OverclockWindowLabel>超頻生產</VFEFactory_OverclockWindowLabel>
+	<VFEFactory_OverclockDesc>增加能源消耗以加快運作速度。{0}</VFEFactory_OverclockDesc>
+	<VFEFactory_VariableOutput>可變輸出</VFEFactory_VariableOutput>
+	<VFEFactory_SteelPerBodySize>每單位體型 10 鋼鐵</VFEFactory_SteelPerBodySize>
+	<VFEFactory_ChemfuelPerNutrition>每 0.1 營養值 1 化合燃料</VFEFactory_ChemfuelPerNutrition>
+	<VFEFactory_MasonryBlocks>20 塊與所用石塊相同種類的石磚</VFEFactory_MasonryBlocks>
+	<VFEFactory_Butchery>以經處理的肉糜形式呈現屍體的肉</VFEFactory_Butchery>
+	<VFEFactory_ButcheryHuman>以人肉形式呈現屍體的肉</VFEFactory_ButcheryHuman>
+	<VFEFactory_ButcheryInsect>以蟲肉形式呈現屍體的肉</VFEFactory_ButcheryInsect>
+	<VFEFactory_KibbleOutput>每 1 營養值 24 粗飼料</VFEFactory_KibbleOutput>
+	<VFEFactory_PemmicanOutput>每 1 營養值 32 肉乾</VFEFactory_PemmicanOutput>
+	<VFEFactory_Cans>每 1 營養值 20 罐頭</VFEFactory_Cans>
+	<VFEFactory_SurvivalMealOutput>每 2.4 營養值 4 份套餐</VFEFactory_SurvivalMealOutput>
+	<VFEFactory_MassProducedMealOutput>每 2 營養值 4 份餐點</VFEFactory_MassProducedMealOutput>
+	<VFEFactory_BabyFoodOutput>每 0.25 營養值 10 份嬰兒食品</VFEFactory_BabyFoodOutput>
+	<VFEFactory_RandomFishAmount>1 至 3 條魚</VFEFactory_RandomFishAmount>
+	<VFEFactory_Metals>隨機金屬</VFEFactory_Metals>
+	<VFEFactory_ChangeDirection>改變方向</VFEFactory_ChangeDirection>
+	<VFEFactory_ChangeDirectionDesc>改變此傳送帶的方向。</VFEFactory_ChangeDirectionDesc>
+	<VFEFactory_DirectionNorth>北</VFEFactory_DirectionNorth>
+	<VFEFactory_DirectionEast>東</VFEFactory_DirectionEast>
+	<VFEFactory_DirectionSouth>南</VFEFactory_DirectionSouth>
+	<VFEFactory_DirectionWest>西</VFEFactory_DirectionWest>
+	<VFEFactory_TabSplitterFilter>過濾器</VFEFactory_TabSplitterFilter>
+	<VFEFactory_CommandCreateLink>建立連結</VFEFactory_CommandCreateLink>
+	<VFEFactory_CommandCreateLinkDesc>連結地下傳送帶入口與出口，使物品能夠通過。</VFEFactory_CommandCreateLinkDesc>
+	<VFEFactory_CommandBreakLink>中斷連結</VFEFactory_CommandBreakLink>
+	<VFEFactory_CommandBreakLinkDesc>取消地下傳送帶入口與出口的連結，以便建立新的連結。</VFEFactory_CommandBreakLinkDesc>
+	<VFEFactory_CommandSelectLinked>選取已連結對象</VFEFactory_CommandSelectLinked>
+	<VFEFactory_CommandSelectLinkedDesc>顯示並選取已連結的結構。</VFEFactory_CommandSelectLinkedDesc>
+	<VFEFactory_ConnectionMissing>因缺少與地下傳送帶出口的連結而無法運作。</VFEFactory_ConnectionMissing>
+	<VFEFactory_AlreadyLinked>無法連結：已連結。</VFEFactory_AlreadyLinked>
+	<VFEFactory_CantLinkSelf>無法連結：無法與自身連結。</VFEFactory_CantLinkSelf>
+	<VFEFactory_NotValidTarget>無法連結：{0} 不是有效的連結目標。</VFEFactory_NotValidTarget>
+	<VFEFactory_ItemsUnderground>地下物品：{0}</VFEFactory_ItemsUnderground>
+	<VFEFactory_IncreaseZone>擴大區域</VFEFactory_IncreaseZone>
+	<VFEFactory_IncreaseZoneDesc>擴展自動農場機將進行收成與播種的範圍。</VFEFactory_IncreaseZoneDesc>
+	<VFEFactory_DecreaseZone>縮小區域</VFEFactory_DecreaseZone>
+	<VFEFactory_DecreaseZoneDesc>縮減自動農場機將進行收成與播種的範圍。</VFEFactory_DecreaseZoneDesc>
+	<VFEFactory_StartAutofarmer>啟動</VFEFactory_StartAutofarmer>
+	<VFEFactory_StartAutofarmerDesc>立即啟動自動農場機。它將在指定區域內移動，進行收成與播種。完成後將返回自動農場機平台。</VFEFactory_StartAutofarmerDesc>
+	<VFEFactory_CancelAutofarmer>取消</VFEFactory_CancelAutofarmer>
+	<VFEFactory_CancelAutofarmerDesc>取消作業並讓自動農場機返回平台。</VFEFactory_CancelAutofarmerDesc>
+	<VFEFactory_Autoharvesting>自動收成</VFEFactory_Autoharvesting>
+	<VFEFactory_AutoharvestingDesc>啟用或停用指定區域內的自動收成與植物砍伐。</VFEFactory_AutoharvestingDesc>
+	<VFEFactory_Autosowing>自動播種</VFEFactory_Autosowing>
+	<VFEFactory_AutosowingDesc>啟用或停用所選作物的自動播種。</VFEFactory_AutosowingDesc>
+	<VFEFactory_AutocycleWhenGrown>成熟時自動循環</VFEFactory_AutocycleWhenGrown>
+	<VFEFactory_AutocycleWhenGrownDesc>啟用或停用區域內作物達到 100% 成熟度時的自動收成／播種循環。</VFEFactory_AutocycleWhenGrownDesc>
+	<VFEFactory_AutofarmerObstructed>由於大型物體阻擋路徑，自動農場機無法啟動。</VFEFactory_AutofarmerObstructed>
+	<VFEFactory_HaulFromConveyor>從傳送帶搬運</VFEFactory_HaulFromConveyor>
+	<VFEFactory_CannotHaulFromConveyor>無法從傳送帶搬運</VFEFactory_CannotHaulFromConveyor>
+	<VFEFactory_NeedsWater>需建置於水上</VFEFactory_NeedsWater>
+	<VFEFactory_NeedsFish>需建置於有魚類生存的水域上</VFEFactory_NeedsFish>
+	<VFEFactory_OutputOnLand>養魚場的輸出點需位於陸地上</VFEFactory_OutputOnLand>
+	<VFEFactory_AllowTaking>允許取用</VFEFactory_AllowTaking>
+	<VFEFactory_AllowTakingDesc>允許殖民者從此工廠漏斗取用物品。</VFEFactory_AllowTakingDesc>
+	<VFEFactory_AllowInserting>允許放入</VFEFactory_AllowInserting>
+	<VFEFactory_AllowInsertingDesc>允許殖民者手動將物品放入此工廠漏斗。</VFEFactory_AllowInsertingDesc>
+	<VFEFactory_ForceHaul>強制搬運</VFEFactory_ForceHaul>
+	<VFEFactory_InvalidConveyorConfiguration>傳送帶配置無效：傳送帶不能同時有兩個或以上的輸入端與兩個或以上的輸出端。</VFEFactory_InvalidConveyorConfiguration>
+	<VFEFactory_FilterBelt>過濾傳送帶</VFEFactory_FilterBelt>
+	<VFEFactory_SplitterBelt>分流傳送帶</VFEFactory_SplitterBelt>
+	<VFEFactory_MergerBelt>合流傳送帶</VFEFactory_MergerBelt>
+	<VFEFactory_RefuelingPort>補給埠</VFEFactory_RefuelingPort>
+</LanguageData>

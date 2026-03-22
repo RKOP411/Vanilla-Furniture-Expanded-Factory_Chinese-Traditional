@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<VFEFactory_MakeKibble.label>製作粗飼料</VFEFactory_MakeKibble.label>
+<VFEFactory_MakeKibble.description>將生肉與植物結合製成動物粗飼料。每消耗 1 營養值可產出 24 份粗飼料，因此 15 份蔬菜與 15 份肉類可產出 36 份粗飼料。</VFEFactory_MakeKibble.description>
+
+<VFEFactory_MakePemmican.label>製作肉乾</VFEFactory_MakePemmican.label>
+<VFEFactory_MakePemmican.description>製作肉乾，一種肉類與植物食物的保存組合。味道不算出色，但無需冷藏即可保存很長時間。每消耗 1 營養值可產出 32 份肉乾，因此 5 份蔬菜與 5 份肉類可產出 16 份肉乾。</VFEFactory_MakePemmican.description>
+
+<VFEFactory_MakeSurvivalMeal.label>製作生存套餐</VFEFactory_MakeSurvivalMeal.label>
+<VFEFactory_MakeSurvivalMeal.description>使用肉類與植物成分組合製作包裝生存套餐。在保存過程中會浪費大量食材。總計 2.4 營養值可製作 4 份生存套餐。</VFEFactory_MakeSurvivalMeal.description>
+
+<VFEFactory_MakeMassProducedMeal.label>製作量產餐點</VFEFactory_MakeMassProducedMeal.label>
+<VFEFactory_MakeMassProducedMeal.description>使用肉類與植物成分組合烹製簡單的量產餐點。總計 2 營養值可製作 4 份量產餐點。</VFEFactory_MakeMassProducedMeal.description>
+
+<VFEFactory_MakeBabyFood.label>製作嬰兒食品</VFEFactory_MakeBabyFood.label>
+<VFEFactory_MakeBabyFood.description>製作嬰兒食品，一種營養均衡的素食泥狀物，專為嬰兒設計。雖然易於大量製作，但只有嬰兒會喜歡其平淡的味道與軟爛的質地。</VFEFactory_MakeBabyFood.description>
+
+<VFEFactory_MakePumpkinCoffee.label>製作南瓜風味咖啡</VFEFactory_MakePumpkinCoffee.label>
+<VFEFactory_MakePumpkinCoffee.description>製作南瓜風味咖啡，一種廉價、大量生產的普通咖啡，浸泡在各種香料中，但奇怪的是不含任何實際的南瓜。</VFEFactory_MakePumpkinCoffee.description>
+
+<VFEFactory_MakeSimpleSoup.label>準備簡易湯品</VFEFactory_MakeSimpleSoup.label>
+<VFEFactory_MakeSimpleSoup.description>使用少量食材快速準備一道未經烹煮的簡易湯品。</VFEFactory_MakeSimpleSoup.description>
+</LanguageData>

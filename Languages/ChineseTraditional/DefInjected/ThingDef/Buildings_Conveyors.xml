@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+<VFEFactory_Conveyor.label>傳送帶</VFEFactory_Conveyor.label>
+<VFEFactory_Conveyor.description>一種簡單的傳送帶，能夠將物品從一處移動至另一處。基於安全考量，無法與傳送帶上的物品進行互動。</VFEFactory_Conveyor.description>
+
+<VFEFactory_ConveyorBase.label>傳送帶基座</VFEFactory_ConveyorBase.label>
+<VFEFactory_ConveyorBase.description>傳送帶的基礎結構，用於支撐和連接傳送帶。</VFEFactory_ConveyorBase.description>
+
+<VFEFactory_UndergroundConveyorEntrance.label>地下傳送帶入口</VFEFactory_UndergroundConveyorEntrance.label>
+<VFEFactory_UndergroundConveyorEntrance.description>傳送帶的簡易入口通道，使其能夠在地下短距離傳輸。需要與附近的地下傳送帶出口連結才能運作。</VFEFactory_UndergroundConveyorEntrance.description>
+
+<VFEFactory_UndergroundConveyorExit.label>地下傳送帶出口</VFEFactory_UndergroundConveyorExit.label>
+<VFEFactory_UndergroundConveyorExit.description>傳送帶的簡易出口通道，使其能夠在地下短距離傳輸。需要與附近的地下傳送帶入口連結才能運作。</VFEFactory_UndergroundConveyorExit.description>
+</LanguageData>

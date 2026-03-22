@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<VFEFactory_AutomatedBrewingSustainer.label>自動釀造音效</VFEFactory_AutomatedBrewingSustainer.label>
+<VFEFactory_AutomatedButcheringSustainer.label>自動屠宰音效</VFEFactory_AutomatedButcheringSustainer.label>
+<VFEFactory_AutomatedCookingSustainer.label>自動烹飪音效</VFEFactory_AutomatedCookingSustainer.label>
+<VFEFactory_DefaultFactorySustainer.label>預設工廠音效</VFEFactory_DefaultFactorySustainer.label>
+<VFEFactory_AutomatedDrillSustainer.label>自動鑽掘音效</VFEFactory_AutomatedDrillSustainer.label>
+<VFEFactory_AutomatedDrugsSustainer.label>自動製藥音效</VFEFactory_AutomatedDrugsSustainer.label>
+<VFEFactory_AutomatedMachiningSustainer.label>自動加工音效</VFEFactory_AutomatedMachiningSustainer.label>
+<VFEFactory_AutomatedSmeltingSustainer.label>自動冶煉音效</VFEFactory_AutomatedSmeltingSustainer.label>
+<VFEFactory_AutomatedStoneCuttingSustainer.label>自動切石音效</VFEFactory_AutomatedStoneCuttingSustainer.label>
+<VFEFactory_AutomatedLoomSustainer.label>自動織布音效</VFEFactory_AutomatedLoomSustainer.label>
+<VFEFactory_AutomatedWeldingSustainer.label>自動焊接音效</VFEFactory_AutomatedWeldingSustainer.label>
+</LanguageData> 

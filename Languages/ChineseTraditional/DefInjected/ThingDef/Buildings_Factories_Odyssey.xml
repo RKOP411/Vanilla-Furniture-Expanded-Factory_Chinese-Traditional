@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <VFEFactory_AutomatedFishfarm.label>自動化養魚場</VFEFactory_AutomatedFishfarm.label>
+    <VFEFactory_AutomatedFishfarm.description>
+        專為從有魚類生存的水域自動捕撈魚類而設計的工業化魚類養殖與捕撈設施。\n\n工廠建築需要工廠漏斗來進行輸入與輸出。需要建造在淺水中。</VFEFactory_AutomatedFishfarm.description>
+</LanguageData>

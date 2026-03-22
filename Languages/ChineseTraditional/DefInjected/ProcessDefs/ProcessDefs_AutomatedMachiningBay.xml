@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<VFEFactory_ShredMechanoid.label>粉碎機械族</VFEFactory_ShredMechanoid.label>
+<VFEFactory_ShredMechanoid.description>使用各種內建工具與研磨機將機械族粉碎成鋼鐵。每單位機械族體型可提取 10 鋼鐵。</VFEFactory_ShredMechanoid.description>
+
+<VFEFactory_ShredDrone.label>粉碎無人機</VFEFactory_ShredDrone.label>
+<VFEFactory_ShredDrone.description>使用各種內建工具與研磨機將無人機粉碎成鋼鐵。每單位無人機體型可提取 10 鋼鐵。</VFEFactory_ShredDrone.description>
+</LanguageData>

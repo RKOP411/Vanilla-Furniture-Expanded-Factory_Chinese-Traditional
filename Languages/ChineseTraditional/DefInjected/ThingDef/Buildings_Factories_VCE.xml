@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+<VFEFactory_AutomatedCannery.label>自動化罐頭工廠</VFEFactory_AutomatedCannery.label>
+<VFEFactory_AutomatedCannery.description>用於從各種原料大規模生產罐頭食品的自動化工業保存系統，無需人力勞動。\n\n工廠建築需要工廠漏斗來進行輸入與輸出。它們會產生大量熱能並消耗大量電力，但可以透過超頻來提高效率，這將同時增加熱能產生與電力消耗。需要建造在工廠地板上。</VFEFactory_AutomatedCannery.description>
+</LanguageData>

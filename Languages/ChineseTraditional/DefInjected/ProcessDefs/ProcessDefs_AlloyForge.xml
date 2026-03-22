@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<VFEFactory_AlloyPlasteel.label>合金塑鋼（鋼鐵、化合燃料、黃金）</VFEFactory_AlloyPlasteel.label>
+<VFEFactory_AlloyPlasteel.description>使用高溫高壓將鋼鐵、化合燃料和黃金合煉成純淨塑鋼。</VFEFactory_AlloyPlasteel.description>
+
+<VFEFactory_AlloyGravlite.label>合金引力光晶（真空石、塑鋼）</VFEFactory_AlloyGravlite.label>
+<VFEFactory_AlloyGravlite.description>利用強烈高溫將塑鋼與真空石結合，鍛造出超輕量的引力光晶合金。</VFEFactory_AlloyGravlite.description>
+
+<VFEFactory_CreateObsidian.label>製作黑曜石（石塊）</VFEFactory_CreateObsidian.label>
+<VFEFactory_CreateObsidian.description>使用極端高溫與快速冷卻工藝，將未經提煉的石塊轉化為黑曜石。</VFEFactory_CreateObsidian.description>
+
+<VFEFactory_AlloyBronze.label>合金青銅（鋼鐵、石塊）</VFEFactory_AlloyBronze.label>
+<VFEFactory_AlloyBronze.description>利用強烈高溫將鋼鐵與石塊中的礦物質熔煉結合，鍛造出青銅合金。</VFEFactory_AlloyBronze.description>
+
+<VFEFactory_AlloySkySteel.label>合金天鋼</VFEFactory_AlloySkySteel.label>
+<VFEFactory_AlloySkySteel.description>利用強烈高溫將鋼鐵與藍色凝膠熔煉結合，鍛造出天鋼。</VFEFactory_AlloySkySteel.description>
+
+<VFEFactory_AlloyStainlessSteel.label>合金不鏽鋼</VFEFactory_AlloyStainlessSteel.label>
+<VFEFactory_AlloyStainlessSteel.description>利用強烈高溫將鋼鐵與鈾雜質熔煉結合，鍛造出不鏽鋼。</VFEFactory_AlloyStainlessSteel.description>
+</LanguageData>
