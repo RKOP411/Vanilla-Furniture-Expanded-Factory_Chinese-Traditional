@@ -1,2 +1,10 @@
-# Vanilla-Furniture-Expanded-Factory_Chinese-Traditional
-Vanilla Furniture Expanded - Factory 3/21/2026 Chinese Traditional Translation
+**所有建築、物品、流程的完整繁體中文翻譯**
+
+**如何使用：**
+將 "ChineseTraditional" 資料夾放入原模組 "Languages" 中
+
+**更新日誌：**
+2026-03-22
+
+**授權**
+本翻譯僅供學習使用，所有權利歸屬於原模組作者。
