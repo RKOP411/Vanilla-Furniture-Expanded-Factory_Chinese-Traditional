@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<LanguageData>
-<VFEFactory_Booster.label>工廠增壓器</VFEFactory_Booster.label>
-<VFEFactory_Booster.description>一個精密的微處理器陣列，專為提升工業工廠建築的速度與效率而設計。它能與附近的工廠機器連結，將其最大超頻上限額外提高 100%，從而大幅提升生產速度。每座工廠最多可使用三個工廠增壓器。</VFEFactory_Booster.description>
-
-<VFEFactory_Heatsink.label>工廠散熱器</VFEFactory_Heatsink.label>
-<VFEFactory_Heatsink.description>一個專為將多餘熱量從工業工廠建築中導出的冷卻系統。它能與附近的工廠機器連結，將其總熱能輸出降低 25%，從而降低過熱與火災的風險。每座工廠最多可使用四個工廠散熱器。</VFEFactory_Heatsink.description>
-</LanguageData>
