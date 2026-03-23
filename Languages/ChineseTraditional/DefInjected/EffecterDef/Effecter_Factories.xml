@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<VFEFactory_Tailor.label>裁縫機</VFEFactory_Tailor.label>
+
+<VFEFactory_Smelt.label>冶煉爐</VFEFactory_Smelt.label>
+
+<VFEFactory_Cook.label>烹飪機</VFEFactory_Cook.label>
+
+<VFEFactory_ButcherFlesh.label>屠宰機</VFEFactory_ButcherFlesh.label>
+
+<VFEFactory_Default.label>工廠預設效果</VFEFactory_Default.label>
+</LanguageData>
