@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<VFEFactory_CremateAnimal.label>火化動物</VFEFactory_CremateAnimal.label>
+<VFEFactory_CremateAnimal.description>火化動物屍體以徹底銷毀。</VFEFactory_CremateAnimal.description>
+
+<VFEFactory_CremateHumanlike.label>火化人類</VFEFactory_CremateHumanlike.label>
+<VFEFactory_CremateHumanlike.description>火化人類屍體以徹底銷毀。</VFEFactory_CremateHumanlike.description>
+
+<VFEFactory_CremateEntities.label>火化實體</VFEFactory_CremateEntities.label>
+<VFEFactory_CremateEntities.description>火化實體屍體以徹底銷毀。</VFEFactory_CremateEntities.description>
+
+<VFEFactory_CremateHybrids.label>火化典範體或混種體</VFEFactory_CremateHybrids.label>
+<VFEFactory_CremateHybrids.description>火化典範體或混種體的屍體以徹底銷毀。</VFEFactory_CremateHybrids.description>
+
+<VFEFactory_CremateHumanoidHybrids.label>火化人形混種體</VFEFactory_CremateHumanoidHybrids.label>
+<VFEFactory_CremateHumanoidHybrids.description>火化人形混種體的屍體以徹底銷毀。</VFEFactory_CremateHumanoidHybrids.description>
+
+<VFEFactory_BurnApparel.label>焚燒服裝</VFEFactory_BurnApparel.label>
+<VFEFactory_BurnApparel.description>焚燒不需要的服裝以徹底銷毀。</VFEFactory_BurnApparel.description>
+
+<VFEFactory_BurnWeapon.label>焚燒武器</VFEFactory_BurnWeapon.label>
+<VFEFactory_BurnWeapon.description>焚燒不需要的武器以徹底銷毀。</VFEFactory_BurnWeapon.description>
+
+<VFEFactory_BurnDrug.label>焚燒藥物</VFEFactory_BurnDrug.label>
+<VFEFactory_BurnDrug.description>焚燒不需要的藥物以徹底銷毀。</VFEFactory_BurnDrug.description>
+</LanguageData> 

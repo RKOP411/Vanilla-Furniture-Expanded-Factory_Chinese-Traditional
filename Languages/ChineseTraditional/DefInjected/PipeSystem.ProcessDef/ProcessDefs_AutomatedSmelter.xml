@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<VFEFactory_SmeltMetalFromSlag.label>從熔渣冶煉金屬</VFEFactory_SmeltMetalFromSlag.label>
+<VFEFactory_SmeltMetalFromSlag.description>使用高溫與強力電磁鐵從熔渣塊中提取有用的金屬。</VFEFactory_SmeltMetalFromSlag.description>
+
+<VFEFactory_SmeltMetalFromMechSlag.label>從機械族熔渣冶煉金屬</VFEFactory_SmeltMetalFromMechSlag.label>
+<VFEFactory_SmeltMetalFromMechSlag.description>使用高溫與強力電磁鐵從機械族熔渣塊中提取有用的金屬。</VFEFactory_SmeltMetalFromMechSlag.description>
+
+<VFEFactory_SmeltWeapon.label>冶煉武器</VFEFactory_SmeltWeapon.label>
+<VFEFactory_SmeltWeapon.description>使用高溫與強力電磁鐵將武器分解為有用的資源。此操作將產出相當於製作該武器所用材料 25% 的資源，但不包括任何零部件或高階零部件。</VFEFactory_SmeltWeapon.description>
+
+<VFEFactory_SmeltApparel.label>冶煉服裝</VFEFactory_SmeltApparel.label>
+<VFEFactory_SmeltApparel.description>使用高溫與強力電磁鐵將服裝分解為有用的資源。此操作將產出相當於製作該服裝所用材料 25% 的資源，但不包括任何零部件或高階零部件。</VFEFactory_SmeltApparel.description>
+
+<VFEFactory_SmeltMetalFromChunk.label>從石塊提取金屬</VFEFactory_SmeltMetalFromChunk.label>
+<VFEFactory_SmeltMetalFromChunk.description>使用高溫與強力電磁鐵從石塊中提取有用的金屬。</VFEFactory_SmeltMetalFromChunk.description>
+
+<VFEFactory_SmeltMechanoid.label>從機械族冶煉鋼鐵</VFEFactory_SmeltMechanoid.label>
+<VFEFactory_SmeltMechanoid.description>使用極度高溫從機械族屍體中提取鋼鐵。每單位機械族體型可提取 10 鋼鐵。</VFEFactory_SmeltMechanoid.description>
+</LanguageData> 
